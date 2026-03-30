@@ -32,7 +32,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=plastic&logo=scrumalliance&logoColor=white)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=nicolasmgh&color=001d3d&style=plastic&label=Github+Profile+Views)
